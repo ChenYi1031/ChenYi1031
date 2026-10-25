@@ -33,6 +33,11 @@
 ## 📝 最新博客
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSleep：用 Ollama 本地大模型做睡眠建议应用](https://chenyi1031.github.io/2026/10/16/2026-10-16-deepsleep-local-llm/)
+- [做了一个 99 概念的 AI 知识图鉴：纯静态站与间隔重复设计](https://chenyi1031.github.io/2026/09/28/2026-09-28-ai-learning-concept-atlas/)
+- [CollabAgent：用 LangGraph 搭建多 Agent 协作研究报告系统](https://chenyi1031.github.io/2026/09/08/2026-09-08-collabagent-langgraph-multi-agent/)
+- [FitFlow 开发复盘：离线优先的健身 PWA 与 RAG AI 教练](https://chenyi1031.github.io/2026/08/26/2026-08-26-fitflow-offline-pwa/)
+- [MuscleMap：用 Three.js 打造 3D 肌肉激活图谱](https://chenyi1031.github.io/2026/08/12/2026-08-12-musclemap-3d-muscle-map/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub 统计
